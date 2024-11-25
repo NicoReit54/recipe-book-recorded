@@ -21,5 +21,7 @@ Cooking time:
 - 11 minutes: jammy eggs
 - 9 minutes: very soft eggs
 
+These times do not seem realistic **TODO: Change it**
+
 Cold water bath: One could use instead a ice bath (water + ice) for 2 minutes.
 
