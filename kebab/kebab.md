@@ -6,7 +6,8 @@
 
 ## Ingredients
 
-+ This should create a conflict with changes from the test branch
+
+* lol test
 * 1 pound ground lamb or beef
 * 1/2 cup finely chopped onion
 * 1/4 cup finely chopped parsley
