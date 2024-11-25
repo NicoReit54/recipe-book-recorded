@@ -10,3 +10,4 @@
 
 - Unpack
 - Eat
+- Buy more
